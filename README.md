@@ -1,6 +1,6 @@
-# geoip2nation
+# geoip2nation3 (archived)
 
-Unmaintained legacy project that I'm displaying here so people can access the code.
+Unmaintained legacy Python 3 project that I'm displaying here so people can access the code.
 
 ## Background
 
